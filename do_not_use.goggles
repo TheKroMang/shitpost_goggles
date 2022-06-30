@@ -1,10 +1,15 @@
-! name: gelbooru
+! name: booru stuff
 ! description: Basically a shitpost of a test to see what happens
 ! public: true
 ! author: benis
 ! avatar: #FF0000
 
-$discard
-$downrank,site=medium.com
-
 $boost=1,site=gelbooru.com
+$boost=1,site=danbooru.donmai.us
+$boost=1,site=konachan.com
+$boost=1,site=yande.re
+$boost=1,site=rule34.xxx
+$boost=1,site=rule34.paheal.net
+$boost=1,site=xbooru.com
+$boost=1,site=tbib.org
+$boost=2,site=safebooru.org
