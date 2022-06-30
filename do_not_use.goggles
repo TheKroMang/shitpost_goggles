@@ -1,0 +1,10 @@
+! name: gelbooru
+! description: Basically a shitpost of a test to see what happens
+! public: true
+! author: benis
+! avatar: #FF0000
+
+$discard
+$downrank,site=medium.com
+
+$boost=1,site=gelbooru.com
